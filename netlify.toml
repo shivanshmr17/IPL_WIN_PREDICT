@@ -1,0 +1,3 @@
+[build]
+  command = "streamlit run app.py"
+  publish = "streamlit-static-files"  # Adjust this folder name if needed
